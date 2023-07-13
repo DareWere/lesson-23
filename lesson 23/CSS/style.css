@@ -1,0 +1,15 @@
+.wrapper{
+    padding: 100px 100px 30vh;
+    height: 100vh;
+}
+.block{
+    height: 100%;
+}
+.block{
+    background: url("/pic/lee.jpg") no-repeat 50% 50%,linear-gradient(rgb(0, 255, 47), rgb(242, 159, 4)); 
+}
+/* .block{
+    background-image: url("/pic/lee.jpg"),linear-gradient(rgb(230, 195, 0), rgb(34, 1, 1));
+    background-repeat: no-repeat;
+    background-position: center;
+} */
